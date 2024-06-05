@@ -625,6 +625,11 @@ img {
         {
           font-size: 45px;
         }
+        #contact-a .text-fields
+        {
+         display: flex;
+         flex-direction: column;
+        }
 
         }
             
