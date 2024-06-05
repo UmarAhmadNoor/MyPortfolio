@@ -119,7 +119,7 @@ input[class^="btn-"]:hover {
 
 .item {
   position: relative;
-  background: white;
+  background: #ffbc00;
   overflow: hidden; }
   .item:after {
     content: "";
