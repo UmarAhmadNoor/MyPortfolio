@@ -247,7 +247,7 @@ img {
     /* justify-content: center; */
     text-align: center;
     align-items: center;
-    margin-top: 15%;
+    margin-top: 10%;
    }
     #header-home .header-content h1 {
       font-size: 4rem;
@@ -630,6 +630,10 @@ img {
          display: flex;
          flex-direction: column;
         }
+            #header-home .header-content {
+
+           margin-top: 15%;
+         }
 
         }
             
