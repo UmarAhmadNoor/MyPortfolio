@@ -219,7 +219,7 @@ img {
   #main-nav ul {
     display: flex; }
   #main-nav li {
-    padding: 1rem 1.5rem; }
+    padding: 1rem 0.5rem; }
   #main-nav a {
     text-decoration: none;
     color: #fff;
