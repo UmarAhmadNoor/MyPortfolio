@@ -140,7 +140,7 @@ input[class^="btn-"]:hover {
 
 .item {
   position: relative;
-  /* background: #ffbc00; */
+  background: #ffbc00;
   overflow: hidden;
   border: #ffbc00 solid 3px;
 }
